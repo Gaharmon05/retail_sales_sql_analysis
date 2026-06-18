@@ -56,6 +56,7 @@ SQL queries were used to answer business questions about revenue, customer spend
 - SUM()
 - COUNT()
 
+
 - Business Questions Answered -
 
 1. What products generate the most revenue?
@@ -63,6 +64,7 @@ SQL queries were used to answer business questions about revenue, customer spend
 3. What is revenue by month?
 4. Which product categories perform best?
 5. Which cities generate the most orders?
+
 
 - Key Findings -
 
