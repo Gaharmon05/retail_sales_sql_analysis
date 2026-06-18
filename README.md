@@ -73,4 +73,4 @@ SQL queries were used to answer business questions about revenue, customer spend
 
 Dashboard Link: https://public.tableau.com/views/RetailProject_17818153368410/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-Dashboard screenshots are available in the screenshots folder.
+Dashboard screenshots are also available in the screenshots folder.
