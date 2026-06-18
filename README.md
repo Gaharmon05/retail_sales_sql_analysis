@@ -1,6 +1,6 @@
 # Retail Sales Database Analysis
 
-- Overview -
+## Overview
 
 This project analyzes retail sales data using PostgreSQL and Tableau.
 
@@ -12,32 +12,30 @@ The database contains three related tables:
 
 SQL queries were used to answer business questions about revenue, customer spending, and product performance.
 
-
-- Tools Used -
+## Tools Used
 
 - PostgreSQL
 - pgAdmin 4
 - SQL
 - Tableau Public
 
+## Database Schema
 
-~ Database Schema ~
-
-- Customers -
+### Customers
 
 - customer_id
 - first_name
 - last_name
 - city
 
-- Products -
+### Products
 
 - product_id
 - product_name
 - category
 - price
 
-- Orders -
+### Orders
 
 - order_id
 - customer_id
@@ -45,8 +43,7 @@ SQL queries were used to answer business questions about revenue, customer spend
 - quantity
 - order_date
 
-
-- Key SQL Skills Demonstrated -
+## Key SQL Skills Demonstrated
 
 - SELECT
 - WHERE
@@ -56,8 +53,7 @@ SQL queries were used to answer business questions about revenue, customer spend
 - SUM()
 - COUNT()
 
-
-- Business Questions Answered -
+## Business Questions Answered
 
 1. What products generate the most revenue?
 2. Which customers spend the most?
@@ -65,8 +61,7 @@ SQL queries were used to answer business questions about revenue, customer spend
 4. Which product categories perform best?
 5. Which cities generate the most orders?
 
-
-- Key Findings -
+## Key Findings
 
 - Electronics generated the highest revenue ($1,750).
 - Laptops were the top-performing product, generating $1,600 in revenue.
@@ -74,6 +69,6 @@ SQL queries were used to answer business questions about revenue, customer spend
 - Atlanta recorded the highest number of orders.
 - Office Supplies generated the lowest revenue among product categories.
 
-- Dashboard -
+## Dashboard
 
 Dashboard screenshots are available in the screenshots folder.
