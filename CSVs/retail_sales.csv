@@ -1,0 +1,8 @@
+"order_id","order_date","first_name","last_name","city","product_name","category","price","quantity","revenue"
+1001,"2025-01-15","Garrett","Smith","Atlanta","Laptop","Electronics",800.00,1,800.00
+1002,"2025-01-18","Grant","Johnson","Marietta","Mouse","Electronics",25.00,2,50.00
+1003,"2025-02-01","Garrett","Smith","Atlanta","Notebook","Office Supplies",5.00,5,25.00
+1004,"2025-02-10","Angel","Brown","Decatur","Desk Chair","Furniture",120.00,1,120.00
+1005,"2025-02-12","Michael","Davis","Atlanta","Pen Pack","Office Supplies",10.00,3,30.00
+1006,"2025-03-05","Grant","Johnson","Marietta","Laptop","Electronics",800.00,1,800.00
+1007,"2025-03-09","Angel","Brown","Decatur","Mouse","Electronics",25.00,4,100.00
